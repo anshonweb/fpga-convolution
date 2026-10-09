@@ -9,11 +9,11 @@ pipelining, and FPGA optimization.
 ## Development Stages
 
 ### 1. Digital Logic & RTL
-- [ ] Basic digital circuits
+- [x] Basic digital circuits
 - [ ] Sequential logic
 - [ ] FSMs
-- [ ] Verilog RTL
-- [ ] Testbenches & simulation
+- [x] Verilog RTL
+- [x] Testbenches & simulation
 
 ### 2. Software Reference
 - [ ] Python/NumPy convolution
