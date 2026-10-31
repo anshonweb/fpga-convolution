@@ -10,8 +10,8 @@ pipelining, and FPGA optimization.
 
 ### 1. Digital Logic & RTL
 - [x] Basic digital circuits
-- [ ] Sequential logic
-- [ ] FSMs
+- [x] Sequential logic
+- [] FSMs
 - [x] Verilog RTL
 - [x] Testbenches & simulation
 
